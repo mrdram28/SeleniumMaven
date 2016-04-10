@@ -20,7 +20,7 @@ public class GoogleTest {
 
 	@AfterTest 
 	public void CloseBrowser() {
-	 driver.quit(); 
+	 //driver.quit(); 
 	} 
 
 	@Test 
