@@ -38,7 +38,7 @@ public class YahooTest {
         
         System.out.println("Title is : "+title);
         
-        Assert.assertTrue(title.contains("Free Selenium Tutorials"));
+        Assert.assertTrue(title.contains("Yahoo"));
         
         System.out.println("#####################################");
 	 } 
